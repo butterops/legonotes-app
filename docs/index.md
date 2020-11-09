@@ -1,8 +1,8 @@
 
 
-Devs @butterops are determined to eease our knowledge collection and research workflow over the internet.
+Devs @butterops are determined to ease our knowledge collection and research workflow over the internet.
 
-`We will be launching sooner!` 
+We will be launching soon! 
 
 Thanks,<br>
 ButterOps Dev Community
